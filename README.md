@@ -27,3 +27,6 @@ WHEN I click on the Write icon in the navigation at the top of the page
 
 # Repo info
 - this repo was cloned off https://github.com/Xandromus for school use.
+
+## details for graders.
+- this app is still a work in progress.

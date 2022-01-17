@@ -31,7 +31,7 @@ app.get("api/notes/:id", function(req, res){
 
 // this is the function that is allows for the page to access other css and js scripts
 app.use(express.static('public'));
-// parse incoming string or array data
+// parse incoming data
 app.use(express.urlencoded({extended: true}));
 // parse incoming JSON data
 app.use(express.json());
