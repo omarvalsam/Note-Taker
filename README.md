@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Note taker, module 11 assigment. 
 
 ## AS A small business owner
@@ -24,7 +23,3 @@ WHEN I click on an existing note in the list in the left-hand column
 
 WHEN I click on the Write icon in the navigation at the top of the page
 - THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
-=======
-# Note-Taker
-module 11 project
->>>>>>> bbf472eb15f1b7169d841f4409084b64c841e98e
